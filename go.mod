@@ -1,4 +1,4 @@
-module github.com/HARI-124/helloEbpf
+module github.com/harisudarsan1/execveTracer
 
 go 1.21.3
 
